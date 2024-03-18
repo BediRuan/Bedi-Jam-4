@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{8CEC4125-5E09-75E8-2FE7-1E937AA89FFF}|">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="f8c13b7b-8373-4d71-bd7e-d0814b8a76bd" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Score.cs">
+    <Files>
+      <File FileName="Assets/Scripts/Asteroid.cs" Line="22" Column="18" />
+      <File FileName="Assets/Scripts/ShipMovement.cs" />
+      <File FileName="Assets/Scripts/Bullet.cs" />
+      <File FileName="Assets/Scripts/MediumAsteroid.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/ShipShoot.cs" Line="19" Column="6" />
+      <File FileName="Assets/Scripts/HelloWorld.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Score.cs" Line="38" Column="62" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Asteroids_2023" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>
